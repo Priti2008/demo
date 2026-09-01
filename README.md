@@ -1,2 +1,2 @@
 # demo
-my git Repository
+this is my first repo when i started my github journey
